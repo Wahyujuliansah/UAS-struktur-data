@@ -1,0 +1,1 @@
+# UAS-struktur-data
